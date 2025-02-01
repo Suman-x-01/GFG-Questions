@@ -52,6 +52,6 @@ public class Aggressive_cows {
 			return true;
 		else
 			return false;
-		//
+
 	}
 }

@@ -18,7 +18,7 @@ public class FindKthRotation {
 		arr.add(4);
 		int rotation = binarySearch(arr);
 		System.out.println(rotation);
-		// System.out.println(arr.size());
+
 	}
 
 	private static int findRotation(List<Integer> arr) {

@@ -8,8 +8,8 @@ int [][]arr={
 		{7,8,9},
 		{9,10,11}
 		};
-		int median = median(arr);
-		System.out.println(median);
+		int res = median(arr);
+		System.out.println(res);
 	}
 	static int median(int mat[][]) {
 		// code here

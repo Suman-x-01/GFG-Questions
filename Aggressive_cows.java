@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.GFG;
+=======
+package com.demo2;
+>>>>>>> 7c93c5c2a99cb139af8ddce96e1bafa4c9457beb
 
 import java.util.Arrays;
 
